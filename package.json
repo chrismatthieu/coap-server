@@ -1,0 +1,23 @@
+{
+  "name": "coap-server",
+  "version": "1.0.0",
+  "description": "coap server demo",
+  "main": "index.js",
+  "dependencies": {
+    "coap": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismatthieu/coap-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismatthieu/coap-server/issues"
+  },
+  "homepage": "https://github.com/chrismatthieu/coap-server#readme"
+}
